@@ -21,7 +21,7 @@ I'm Doha Harfi, a Master’s student in Management des Systèmes d'Information a
 
 Below are some highlights of my work. Each project comes with a detailed README explaining the objectives, the technology used, and insights gained.
 
-- **[Business Analytics Project]((https://github.com/DohaHarfi/DohaHarfi.github.io./blob/main/Event_coordination.sql))** - A detailed analysis of company data to optimize resource allocation.
+- **[Business Analytics Project](https://github.com/DohaHarfi/DohaHarfi.github.io./blob/main/Event_coordination.sql)** - A detailed analysis of company data to optimize resource allocation.
 - **[Market Research Analysis](link-to-repository)** - An exploration of market trends to guide strategic planning.
 
 ## 📬 Get in Touch
