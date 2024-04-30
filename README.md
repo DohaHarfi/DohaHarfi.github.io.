@@ -1,4 +1,3 @@
-# DohaHarfi.github.io.
 # Doha Harfi's Portfolio
 
 Welcome to my professional portfolio on GitHub! Here you'll find a collection of my projects and contributions that showcase my skills in business administration, data analysis, and management information systems. Feel free to explore the repositories and get a deeper insight into my technical and analytical capabilities.
